@@ -79,10 +79,10 @@
                         <nav id="main-nav" class="main-nav">
                             <ul id="menu-primary-menu" class="menu">
                                 <li class="menu-item menu-item-has-children current-menu-item">
-                                    <a href="home.html">HOME</a>
+                                    <a href="home.php">HOME</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="contact.html">CONTACT</a>
+                                    <a href="contact.php">CONTACT</a>
                                 </li>
                             </ul>
                         </nav><!-- /#main-nav -->
@@ -439,9 +439,9 @@
                                                 </div>
                                             </div><!-- /.themesflat-carousel-box -->
                                             <div class="themesflat-spacer clearfix" data-desktop="50" data-mobile="35" data-smobile="35"></div>
-                                            <div class="elm-button text-center">
+                                            <!-- <div class="elm-button text-center">
                                                 <a href="#" class="themesflat-button bg-accent">ALL SERVICES</a>
-                                            </div>
+                                            </div> -->
                                             <div class="themesflat-spacer clearfix" data-desktop="73" data-mobile="60" data-smobile="60"></div>
                                         </div><!-- /.col-md-12 -->
                                     </div><!-- /.row -->

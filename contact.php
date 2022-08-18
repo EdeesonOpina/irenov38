@@ -6,7 +6,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Autora - Construction Business HTMl Template</title>
+    <title>i'Renov 38</title>
 
     <meta name="author" content="themesflat.com">
 
@@ -67,7 +67,7 @@
                         <div id="site-logo" class="clearfix">
                             <div id="site-log-inner">
                                 <a href="home.html" rel="home" class="main-logo">
-                                    <img src="assets/img/logo-small.png" alt="Autora" width="186" height="39" data-retina="assets/img/logo-small@2x.png" data-width="186" data-height="39">
+                                    <img src="assets/img/logo-small.png" alt="i'Renov 38" width="186" height="39" data-retina="assets/img/logo-small@2x.png" data-width="186" data-height="39">
                                 </a>
                             </div>
                         </div><!-- /#site-logo -->

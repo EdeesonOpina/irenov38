@@ -6,7 +6,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>i'Renov 38</title>
+    <title>i'Renov 38 - Contact</title>
 
     <meta name="author" content="themesflat.com">
 

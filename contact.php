@@ -66,7 +66,7 @@
                     <div class="wrap-inner clearfix">
                         <div id="site-logo" class="clearfix">
                             <div id="site-log-inner">
-                                <a href="home.html" rel="home" class="main-logo">
+                                <a href="index.php" rel="home" class="main-logo">
                                     <img src="assets/img/logo-small.png" alt="i'Renov 38" width="186" height="39" data-retina="assets/img/logo-small@2x.png" data-width="186" data-height="39">
                                 </a>
                             </div>
@@ -99,7 +99,7 @@
                     <div id="breadcrumbs">
                         <div class="breadcrumbs-inner">
                             <div class="breadcrumb-trail">
-                                <a href="home.html" class="trail-begin">Home</a>
+                                <a href="index.php" class="trail-begin">Home</a>
                                 <span class="sep">|</span>
                                 <span class="trail-end">Contact</span>
                             </div>
@@ -335,44 +335,6 @@
                 </div><!-- /.themesflat-row -->
             </div><!-- /#footer-widgets -->
         </footer><!-- /#footer -->
-
-        <!-- Bottom -->
-        <div id="bottom" class="clearfix has-spacer">
-            <div id="bottom-bar-inner" class="container">
-                <div class="bottom-bar-inner-wrap">
-                    <div class="bottom-bar-content">
-                        <div id="copyright">© <span class="text">Construction Template. Design <a href="#" class="text-accent">by @Niche_Theme</a></span> 
-                        </div>
-                    </div><!-- /.bottom-bar-content -->
-
-                    <div class="bottom-bar-menu">
-                        <ul class="bottom-nav">
-                            <li class="menu-item">
-                                <a href="home.html">HOME</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="page-about.htnml">ABOUT US</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="page-services.html">SERVICES</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="page-projects.html">PROJECTS</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="page-testimonial.html">PAGE</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="page-blog.html">BLOG</a>
-                            </li>
-                            <li class="menu-item current-menu-item">
-                                <a href="page-contact.html">CONTACT</a>
-                            </li>
-                        </ul>
-                    </div><!-- /.bottom-bar-menu -->
-                </div><!-- /.bottom-bar-inner-wrap -->                
-            </div><!-- /#bottom-bar-inner -->
-        </div><!-- /#bottom -->
 
     </div><!-- /#page -->
 </div><!-- /#wrapper -->
